@@ -4,7 +4,7 @@ Download: [GenAudioBook_Pro.dmg (latest)](https://github.com/tomembke/genaudiobo
 
 Requires a Mac with Apple Silicon (M1 or newer).
 
-## Engines (v1.0.3)
+## Engines (v1.0.4)
 
 All engines are installed from inside the app via **Model Manager** (button next to "KI Engine" / "AI Engine").
 
